@@ -1,0 +1,10 @@
+{
+    "powers": [],
+    "icon": {
+        "item": "minecraft:barrier"
+    },
+    "order": 0,
+    "impact": 0,
+    "name": "Default",
+    "description": "Contact scriptshatter or stego, or make your own, and request it to be added to the server. once it is added you will get it via commands."
+}

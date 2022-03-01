@@ -1,0 +1,9 @@
+{
+    "order": 1,
+    "origins": [
+        "template:default"
+    ],
+    "name": "Personality",
+    "missing_name": "None",
+    "missing_description": "Your character does not have a personality yet. Contact scriptshatter or stego, or make your own, and request it to be added to the server. once it is added you will get it via commands."
+}
